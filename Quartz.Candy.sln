@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quartz.Candy", "Quartz.Candy\Quartz.Candy.csproj", "{8A5912C5-3829-4E50-8B66-05965BBF0204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quartz.Candy.ConsoleApp", "Quartz.Candy.ConsoleApp\Quartz.Candy.ConsoleApp.csproj", "{3A410394-97EC-49EC-B8E3-C30D23BD831C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A5912C5-3829-4E50-8B66-05965BBF0204}.Debug|x86.ActiveCfg = Debug|x86
+		{8A5912C5-3829-4E50-8B66-05965BBF0204}.Debug|x86.Build.0 = Debug|x86
+		{8A5912C5-3829-4E50-8B66-05965BBF0204}.Release|x86.ActiveCfg = Release|x86
+		{8A5912C5-3829-4E50-8B66-05965BBF0204}.Release|x86.Build.0 = Release|x86
+		{3A410394-97EC-49EC-B8E3-C30D23BD831C}.Debug|x86.ActiveCfg = Debug|x86
+		{3A410394-97EC-49EC-B8E3-C30D23BD831C}.Debug|x86.Build.0 = Debug|x86
+		{3A410394-97EC-49EC-B8E3-C30D23BD831C}.Release|x86.ActiveCfg = Release|x86
+		{3A410394-97EC-49EC-B8E3-C30D23BD831C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

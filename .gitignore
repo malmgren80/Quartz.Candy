@@ -1,0 +1,8 @@
+bin
+obj
+*.suo
+_Re[sS]harper.*
+*.user
+build
+source/NinjaBook.Web.Service/NinjaBookDB/
+/db/ninjabook.test.sdf
